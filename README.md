@@ -12,7 +12,7 @@ python a-notch-above.py &
 If you care about reproducibility, but can't be bothered to manage yet another
 python project, just run
 ```bash
-sh <(curl -q https://platform.activestate.com/dl/cli/pdli01/install-latest.sh) -c'state activate jeremyp/a-state-above'
+sh <(curl -q https://platform.activestate.com/dl/cli/pdli01/install-latest.sh) -c'state activate ucodery/a-state-above'
 ```
 once to set everything up and then run
 ```bash
