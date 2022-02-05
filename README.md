@@ -1,7 +1,7 @@
 # A Notch Above
 A software patch to add screen notches to macbooks that shipped without them
 
-As debuted at PyCascades
+[As debuted at PyCascades](https://docs.google.com/presentation/d/e/2PACX-1vTdQm_EwHEs2KXMg2KrIwgGOzbpGi5n_0fzD_DJh4zhlzBBnjdfBqyfFRgOFG3OciBwdLFVcH3_IZ0T/pub?start=false&loop=false&delayms=5000)
 
 ### Usage
 To bring up your notch up, just run the `a-notch-above.py` script
